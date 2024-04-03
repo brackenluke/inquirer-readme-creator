@@ -22,7 +22,10 @@ const generateMarkdown = require("./utils/generateMarkdown");
 
 //Creating an array of questions for user input
 const questions = [
- 
+ {
+  type: "input",
+  
+ }
 
 ];
 
